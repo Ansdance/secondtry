@@ -8,3 +8,6 @@ GIT COMMANDS
 6) git branch test (для создания веток)(git checkout -b new) \ чтобь удалить git branch -D test \ чтобы просмотреть git branch
 7) если перекочится на ветку то git checkout test
 8) git merge test (объеденить две ветки)
+9) git push чтобы закинутьь на git
+10) перед началом работ с git если есть второй пользователь и он делал изменения то 
+лучше скачть их командой git pull
