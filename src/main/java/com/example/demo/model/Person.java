@@ -8,7 +8,7 @@ public class Person {
     private final String name;
 
     public Person(UUID id, String name) {
-        this.name = id;
+        this.id = id;
         this.name = name;
     }
 

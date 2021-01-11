@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ansdance/secondtry.git",
+  "author": "Ansdance <dauletbayev.ansar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.12",
+    "vue-resource": "^1.5.1"
+  }
+}
